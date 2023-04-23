@@ -1,0 +1,18 @@
+body{
+    color:rgb(15, 14, 14);
+    
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.info{
+    text-align: right;
+}
+.edu{
+    align-items: center;
+}
+h3{
+    text-align: center;
+    background-color: yellow;
+}
